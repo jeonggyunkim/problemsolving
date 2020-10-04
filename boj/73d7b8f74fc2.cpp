@@ -1,0 +1,127 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+typedef pair<int, int> ii;
+
+int n;
+vector<vector<int>> child;
+vector<int> tree;
+vector<ii> index;
+
+class LazyTree {
+	private:
+		int n;
+		vector<long long> tree;
+		vector<long long> lazy;
+		long long _find(int l, int r, int i, int li, int ri) {
+			if (lazy[i]) {
+				if (li != ri) {
+					lazy[2 * i + 1] += lazy[i];
+					lazy[2 * i + 2] += lazy[i];
+				}
+				tree[i] += lazy[i];
+				lazy[i] = 0;
+			}
+			if (l == li && r == ri) return tree[i];
+			int mid = (li + ri) / 2;
+			if (r <= mid) return _find(l, r, 2 * i + 1, li, mid);
+			if (l >= mid + 1) return _find(l, r, 2 * i + 2, mid + 1, ri);
+			return min(_find(l, mid, 2 * i + 1, li, mid), _find(mid + 1, r, 2 * i + 2, mid + 1, ri));
+		}
+		long long _upd(int l, int r, int d, int i, int li, int ri) {
+			if (l == li && r == ri) {
+				lazy[i] += d;
+				return tree[i] + lazy[i];
+			}
+			int mid = (li + ri) / 2;
+			long long left, right;
+			if (r <= mid) {
+				left = _upd(l, r, d, 2 * i + 1, li, mid);
+				right = tree[2 * i + 2] + lazy[2 * i + 2];
+			}
+			else if (l > mid) {
+				left = tree[2 * i + 1] + lazy[2 * i + 1];
+				right = _upd(l, r, d, 2 * i + 2, mid + 1, ri);
+			}
+			else {
+				left = _upd(l, mid, d, 2 * i + 1, li, mid);
+				right = _upd(mid + 1, r, d, 2 * i + 2, mid + 1, ri);
+			}
+			tree[i] = min(left, right);
+			return tree[i] + lazy[i];
+		}
+	public:
+		LazyTree(int i) {
+			n = i;
+			tree.resize(n * 4, 0);
+			lazy.resize(n * 4, 0);
+		}
+		long long find(int l, int r) { return _find(l, r, 0, 0, n - 1); }
+		void upd(int l, int r, int d) { _upd(l, r, d, 0, 0, n - 1); }
+};
+
+void insert(int i, int d) {
+	while (i <= n) {
+		tree[i] += d;
+		i += (i & -i);
+	}
+}
+
+int get(int i) {
+	int ret = 0;
+	while (i) {
+		ret += tree[i];
+		i &= (i - 1);
+	}
+	return ret;
+}
+
+int cnt;
+
+void dfs(int i) {
+	index[i].first = ++cnt;
+	for (int u: child[i]) {
+		dfs(u);
+	}
+	index[i].second = cnt;
+}
+
+int main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+
+	int q, t;
+	cin >> n >> q;
+	child.resize(n + 1);
+	tree.resize(n + 1);
+	index.resize(n + 1);
+
+	for (int i = 1; i <= n; ++i) {
+		cin >> t;
+		if (t != -1) {
+			child[t].push_back(i);
+		}
+	}
+	dfs(1);
+
+	LazyTree lz(n + 1);
+
+	int op, a, b;
+	bool inv = 0;
+	while (q--) {
+		cin >> op;
+		if (op == 3) {
+			inv = !inv;
+		}
+		else if (op == 1) {
+			cin >> a >> b;
+			if (!inv) lz.upd(index[a].first, index[a].second, b);
+			else insert(index[a].first, b);
+		}
+		else {
+			cin >> a;
+			cout << get(index[a].second) - get(index[a].first - 1) + lz.find(index[a].first, index[a].first) << '\n';
+		}
+	}
+}

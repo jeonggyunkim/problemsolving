@@ -1,0 +1,20 @@
+{
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["X", "i", "n"],
+            "after": ["i", "o", "s", ":", ":", "s", "y", "n", "c", "_", "w", "i", "t", "h", "_", "s", "t", "d", "i", "o", "(", "0", ")", ";", "<enter>",
+            "c", "i", "n", ".", "t", "i", "e", "(", "0", ")", ";", "<enter>"]
+        },
+        {
+            "before": ["X", "u", "s"],
+            "after": ["u", "s", "i", "n", "g", "<space>", "n", "a", "m", "e", "s", "p", "a", "c", "e", "<space>", "s", "t", "d", ";"]
+        }
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "tuple": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "string": "cpp"
+    }
+}
