@@ -9,8 +9,8 @@ typedef pair<int, int> ii;
 int n, s, f;
 vector<vector<ii>> edge(n);
 vector<int> dist(n, INF);
-dist[s] = 0;
 priority_queue<ii, vector<ii>, greater<ii>> pq;
+dist[s] = 0;
 pq.push({0, s});
 while (!pq.empty()) {
 	ii now = pq.top(); pq.pop();
