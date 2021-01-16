@@ -4,17 +4,18 @@ import hashlib
 argc = len(sys.argv)
 
 if argc == 1:
-    print('usage: num')
+    print('usage: name')
     sys.exit(0)
 
 with open('key.txt', 'rt') as f:
     key = f.read()
 
-num = sys.argv[1]
+name = sys.argv[1]
 
-m = hashlib.sha256()
-num = key + num
-m.update(num.encode())
-encrypt = m.hexdigest()[:12]
-
-print(encrypt)
+for num in range(1000, 100000):
+	m = hashlib.sha256()
+	m.update((key + str(num)).encode())
+	encrypt = m.hexdigest()[:12]
+	if encrypt == name:
+		print(num)
+		break
