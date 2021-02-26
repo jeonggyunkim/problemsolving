@@ -1,14 +1,15 @@
 import random
 
-n = 10
-q = 10
+n = 500000
 
 f = open("in", "wt")
 
-print(n, q, file = f)
+print(n, file = f)
 for i in range(n):
-	print(random.randrange(100), end = ' ', file = f)
+	print(random.randrange(1, 2000000001), random.randrange(1, 2000000001), file = f)
 print(file = f)
+
+'''
 
 for i in range(q):
 	op = random.randrange(3)
@@ -23,5 +24,5 @@ for i in range(q):
 		print(1, l, r, random.randrange(1, 1001), file = f)
 	else:
 		print(2, l, r, random.randrange(1, 1001), file = f)
-
+'''
 f.close()
