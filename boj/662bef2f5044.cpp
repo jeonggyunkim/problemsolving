@@ -1,45 +1,58 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
+#define N 1000010
 using namespace std;
 
+int num[N];
+int ind[N];
+int lis[N];
+int lis_index[N];
+
 int main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+
 	int n;
-	scanf("%d", &n);
+	cin >> n;
 
-	int num[1000010];
-	int ind[1000010];
-	int lis[10010];
+	for (int i = 0; i < n; ++i) {
+		cin >> num[i];
+	}
 
-	scanf("%d", num);
-	lis[0] = num[0]; ind[0] = 0;
-	int index = 1;
+	int sz = 1;
+	ind[0] = -1;
+	lis[0] = num[0];
+	lis_index[0] = 0;
+
 	for (int i = 1; i < n; ++i) {
-		scanf("%d", num + i);
-		if (num[i] < lis[index - 1]) {
-			int* ptr = lower_bound(lis, lis + index, num[i]);
-			*ptr = num[i];
-			ind[i] = ptr - lis;
-		}
-		else if (num[i] == lis[index - 1]) {
-			ind[i] = index;
+		if (lis[sz - 1] < num[i]) {
+			ind[i] = lis_index[sz - 1];
+			lis[sz] = num[i];
+			lis_index[sz] = i;
+			sz++;
 		}
 		else {
-			lis[index++] = num[i];
-			ind[i] = index - 1;
+			int j = lower_bound(lis, lis + sz, num[i]) - lis;
+			if (lis[j] != num[i]) {
+				lis[j] = num[i];
+				lis_index[j] = i;
+				if (j != 0) {
+					ind[i] = lis_index[j - 1];
+				}
+				else ind[i] = -1;
+			}
 		}
 	}
-	printf("%d\n", index--);
-	vector<int> v;
-	for (int i = n - 1; i >= 0; --i) {
-		if (ind[i] == index) {
-			v.push_back(num[i]);
-			index--;
-		}
+
+	cout << sz << '\n';
+	int i = lis_index[sz - 1];
+
+	vector<int> ans;
+	while (i != -1) {
+		ans.push_back(num[i]);
+		i = ind[i];
 	}
-	while (!v.empty()) {
-		printf("%d ", v.back());
-		v.pop_back();
+	for (int i = ans.size() - 1; i >= 0; --i) {
+		cout << ans[i] << ' ';
 	}
-	printf("\n");
 }

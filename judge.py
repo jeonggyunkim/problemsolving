@@ -1,7 +1,7 @@
 import os
 import time
 
-time_limit = 1.0
+time_limit = 2.0
 
 input_files = os.listdir('input')
 output_files = os.listdir('output')

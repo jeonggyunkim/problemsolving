@@ -1,13 +1,14 @@
 import random
 
-n = 500000
+n = 10
 
 f = open("in", "wt")
 
 print(n, file = f)
 for i in range(n):
-	print(random.randrange(1, 2000000001), random.randrange(1, 2000000001), file = f)
-print(file = f)
+	for j in range(n):
+		print(random.randrange(20), end = ' ', file = f)
+	print(file = f)
 
 '''
 
