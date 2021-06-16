@@ -4,7 +4,7 @@ make:
 r:
 	./a < in
 c:
-	g++ -O2 -Wall -std=gnu++17 -fsanitize=address -g -o a a.cpp
+	g++ -g -Wall -std=gnu++17 -g -o a a.cpp
 d:
 	gdb a
 git:
