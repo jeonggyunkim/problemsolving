@@ -21,7 +21,7 @@ for num in range(1000, 100000):
 	encrypt = m.hexdigest()[:12]
 	if encrypt == name:
 		print(num)
-		break
+		sys.exit(0)
 
 print('Not a number')
 
@@ -33,4 +33,4 @@ for p in prefix:
 		encrypt = m.hexdigest()[:12]
 		if encrypt == name:
 			print(num)
-			break
+			sys.exit(0)
