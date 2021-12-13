@@ -1,0 +1,1083 @@
+Vertical line #8
+     |     |     |     |     |     |
+     |   XX|XXXXX|X    |     |     |
+
+Vertical line #9
+     |     |     |     |     |     |
+     |     |XXXXX|XXXXX|X    |     |
+
+Vertical line #10
+     |     |     |     |     |     |
+     |     |     |XXXXX|XXX  |     |
+
+Vertical line #11
+     |     |     |     |     |     |
+     |     |    X|XXXXX|     |     |
+
+Vertical line #23
+     |     |     |     |     |     |
+     |     |  XXX|     |     |     |
+
+Vertical line #24
+     |     |     |     |     |     |
+     |     | XXXX|XX   |     |     |
+
+Vertical line #27
+     |     |     |     |     |     |
+     |     |  XX |     |     |     |
+
+Vertical line #28
+     |     |     |     |     |     |
+     |     |   X |     |     |     |
+
+Vertical line #29
+     |     |     |     |     |     |
+     |     |   X |     |     |     |
+
+Horizontal line #4
+     |     |     |     |     |     |
+     |     |     |     |X    |     |
+
+Horizontal line #8
+     |     |     |     |     |     |
+     |   XX|XXX  |    X|XXXXX|     |
+
+Horizontal line #10
+     |  X  |     |     |     |     |
+     |XXXXX|XXXXX|     | XXXX|XX   |
+
+Horizontal line #11
+     |  XX |     |     |     |     |
+     |  XX |     |     |  XXX|     |
+
+Horizontal line #12
+     |  XX |     |     |   X |     |
+     |  XX |     |     |  XX |     |
+
+Horizontal line #13
+     |  XX |     |     |  XX | X   |
+     |  XX |     |     |  XXX|XX   |
+
+Horizontal line #14
+     |  XX |     |     |  XX | XXX |
+     | .XX.|     |     | XXX | XXX |
+
+Horizontal line #16
+     |  XXX|X    |     |   X |     |
+     | XXXX|XX   |     | XXXX|X    |
+
+Horizontal line #17
+     |   XX|X    |     |   X |     |
+     |   XX|X    |     |  XXX|X    |
+
+Horizontal line #18
+     |   XX|X    |     |     |     |
+     |   XX|X    |     |   XX|X    |
+
+Horizontal line #19
+     |   XX|X    |     |     |     |
+     |   XX|XXX  |     |     |     |
+
+Vertical line #7
+     |    X|   . |X    |     |     |
+     |    X|   ..|X.   |     |     |
+
+Vertical line #10
+     |  X X|   . |XXXXX|XXX  |     |
+     |  X X|   . |XXXXX|XXXXX|XX   |
+
+Vertical line #11
+     |  X X|    X|XXXXX|     |     |
+     | .X.X|.   X|XXXXX|X    |     |
+
+Vertical line #21
+   X |  X  |     |     |     |     |
+   XX|X X  |     |     |     |     |
+
+Vertical line #22
+     |  X X|   X |X    |     |     |
+..   | XXXX|   X |X    |     |     |
+
+Vertical line #23
+     |  X X|XXXXX|XX   |     |     |
+..   |  XXX|XXXXX|XX   |     |     |
+
+Vertical line #24
+     |  X X|XXXXX|XXX  |     |     |
+.    |  XXX|XXXXX|XXX  |     |     |
+
+Vertical line #25
+     |  X X|X X  |XXX  |     |     |
+     |  XXX|X X  |XXX  |     |     |
+
+Vertical line #26
+     |    X|  X  |XXX  |     |     |
+     |   XX|  X  |XXX  |     |     |
+
+Horizontal line #5
+     |     |     |     |X    |     |
+     |     |     |     |X    |    .|
+
+Horizontal line #7
+     |     |.    |     | X   |     |
+     |     |.    |  XX | X   |     |
+
+Horizontal line #9
+     |  X  |.    |     | XXXX|X    |
+     |  X  |.    |     |XXXXX|X    |
+
+Horizontal line #11
+     |  XX |.    |     |  XXX|     |
+     |  XX |.    |     |  XXX|X    |
+
+Horizontal line #15
+     | .XX |X    |     |  XX |     |
+     | .XXX|XX.  |     |XXXX |     |
+
+Vertical line #10
+     |  X X|   .X|XXXXX|XXXXX|XX   |
+     |  X X|   .X|XXXXX|XXXXX|XX.  |
+
+Vertical line #12
+     |  X X|    X|X  X |     |     |
+     |  X X|    X|XX X |     |     |
+
+Vertical line #21
+   XX|X XX |    X|     |     |     |
+...XX|XXXX.|    X|XX   |     |     |
+
+Vertical line #22
+..   | XXXX|   XX|X    |     |     |
+..  X|XXXXX|  .XX|X.   |     |     |
+
+Horizontal line #6
+     |     |     |     |XX   |     |
+     |     |     |     |XX   |  ...|
+
+Horizontal line #10
+     |XXXXX|XXXXX|     |.XXXX|XX   |
+     |XXXXX|XXXXX|     |.XXXX|XXXXX|
+
+Horizontal line #13
+     |  XX |     |     | .XXX|XX   |
+     |  XX |     |     | .XXX|XXXXX|
+
+Horizontal line #16
+     | XXXX|XX   |     |XXXXX|X    |
+     |XXXXX|XX   |     |XXXXX|X   .|
+
+Horizontal line #17
+     | . XX|XX   |     |X.XXX|X    |
+     | ..XX|XX.  |    .|X.XXX|XXXXX|
+
+Vertical line #6
+     |    X|     |X    |     |     |
+     |    X|    .|X.   |     |     |
+
+Vertical line #8
+     |   XX|XXXXX|X.   |     |     |
+XXXXX|XXXXX|XXXXX|X.   |     |     |
+
+Vertical line #28
+     |.   X|  XX | X   |     |     |
+     |.   X|X XX | X   |     |     |
+
+Vertical line #29
+     |.   X|  XX | X   |     |     |
+     |.   X|  XXX| X   |     |     |
+
+Vertical line #30
+    .|.   X|  X  |.X   |     |     |
+XXXX.|.XXXX|XXXXX|.XXX.|     |     |
+
+Horizontal line #1
+     |  X  |     |     |.... |    X|
+...  |  X  |  ...|.....|.....|XXXXX|
+
+Horizontal line #2
+     |  X  |     |     |...  |    X|
+     |  X  |     |.....|...XX|XXXXX|
+
+Horizontal line #3
+     |  X  |     |     |.    |    X|
+     |  XXX|     |  ...|.XXXX|XXXXX|
+
+Horizontal line #4
+     |  X  |     |     |X    |    X|
+     |  X  |     |    .|XXXXX|XXXXX|
+
+Horizontal line #7
+     |  X  |.    |  XX |XX   |    X|
+     |  X .|.    |  XXX|XX   |.XXXX|
+
+Horizontal line #8
+     |  XXX|XXX  |    X|XXXXX|    X|
+     |  XXX|XXX  |  ..X|XXXXX|XXXXX|
+
+Horizontal line #9
+     |  X  |.    |     |XXXXX|X   X|
+     |  X  |.    |    .|XXXXX|XXXXX|
+
+Horizontal line #11
+     |  XX |.    |     |  XXX|X X X|
+     |  XX |.    |     | .XXX|XXXXX|
+
+Horizontal line #12
+     |  XX |     |     |  XX |    X|
+     |  XX |     |     | .XXX|XXXXX|
+
+Horizontal line #14
+     | .XX.|     |     | XXX | XXXX|
+     | .XX.|     |     | XXX |.XXXX|
+
+Horizontal line #15
+     |..XXX|XX.  |     |XXXX |   XX|
+     |..XXX|XX.  |     |XXXX |  .XX|
+
+Horizontal line #17
+     |...XX|XX.  |    .|X.XXX|XXXXX|
+  X  |...XX|XX.  |    .|X.XXX|XXXXX|
+
+Horizontal line #18
+     |   XX|X    |     |   XX|X   X|
+     |   XX|X    |     |  .XX|XXXXX|
+
+Horizontal line #19
+     |   XX|XXX  |     |     |    X|
+     |   XX|XXX  |     |    .|XXXXX|
+
+Vertical line #1
+.    |     |     |     |     |     |
+.    |     |     |X    |     |     |
+
+Vertical line #9
+  X  |  X X|XXXXX|XXXXX|X    |     |
+  XX |  XXX|XXXXX|XXXXX|X    |     |
+
+Vertical line #10
+  X  | .X X|   .X|XXXXX|XXXXX|XX.  |
+. X  | .X X|X  .X|XXXXX|XXXXX|XX.  |
+
+Vertical line #13
+.    |  X X|    .| . X |     |     |
+.    |  X.X|    .| . X |     |     |
+
+Vertical line #18
+...  | X.  |     |     |     |     |
+...  |.X.  |     |     |     |     |
+
+Vertical line #20
+.... | XX. |     | .   |     |     |
+....X|XXX. |     | .   |     |     |
+
+Vertical line #23
+..XX |  XXX|XXXXX|XX.  |     |     |
+..XXX|XXXXX|XXXXX|XX.  |     |     |
+
+Vertical line #24
+.XXX |  XXX|XXXXX|XXX  |     |     |
+.XXXX|XXXXX|XXXXX|XXX. |     |     |
+
+Vertical line #25
+.XXX |  XXX|XXX  |XXX. |     |     |
+.XXXX|X.XXX|XXX.X|XXX. |     |     |
+
+Vertical line #26
+XXXX | .XXX|XXX. |XXXX |     |     |
+XXXXX|..XXX|XXX..|XXXX.|     |     |
+
+Vertical line #27
+XXXX | XXXX|XXXX | XXX |     |     |
+XXXXX|.XXXX|XXXX.| XXX |     |     |
+
+Vertical line #28
+XXXX |.XXXX|XXXX.| XXX |     |     |
+XXXXX|.XXXX|XXXX.|.XXX.|     |     |
+
+Vertical line #29
+XXXX |.XXXX|XXXXX| XXX |     |     |
+XXXX.|.XXXX|XXXXX|.XXX.|     |     |
+
+Horizontal line #1
+...  |  X .|  ...|.....|.....|XXXXX|
+... X|XXX .|.....|.....|.....|XXXXX|
+
+Horizontal line #4
+     |  XX |     |    .|XXXXX|XXXXX|
+.    |  XX |     |    .|XXXXX|XXXXX|
+
+Horizontal line #5
+     |  X  |     |    X|XXXXX|XXX..|
+     |  X  |     |   .X|XXXXX|XXX..|
+
+Horizontal line #6
+     |  X  |     |  . X|XXXXX|.....|
+     |  X  |     |  .XX|XXXXX|.....|
+
+Horizontal line #7
+     |  X .|.    |  XXX|XXXX.|.XXXX|
+     |  X .|.    |.XXXX|XXXX.|.XXXX|
+
+Horizontal line #9
+     |  XX |. .  |    .|XXXXX|XXXXX|
+     |  XX |...  |    .|XXXXX|XXXXX|
+
+Horizontal line #11
+     |  XXX|.    |     | .XXX|XXXXX|
+     | .XXX|.    |     | .XXX|XXXXX|
+
+Horizontal line #14
+     | .XX.|     |     | XXX.|.XXXX|
+     | .XX.|     |    .|XXXX.|.XXXX|
+
+Horizontal line #15
+     |..XXX|XX.  |     |XXXXX|...XX|
+     |..XXX|XX.  |  .XX|XXXXX|...XX|
+
+Horizontal line #16
+X    |XXXXX|XX   |     |XXXXX|X ...|
+X. XX|XXXXX|XX   |   XX|XXXXX|X ...|
+
+Horizontal line #20
+     |   XX|X    |     |     |. ...|
+     |   XX|X    |     |     |.....|
+
+Vertical line #1
+.  . |     |     |X    |     |     |
+.... |     |     |XXXX |     |     |
+
+Vertical line #5
+X    |     |     |X    |     |     |
+XXXXX|.    |     |X    |     |     |
+
+Vertical line #6
+X    |    X|    .|X.   |     |     |
+XXXXX|.  .X|.   .|X.   |     |     |
+
+Vertical line #7
+X    |    X|.  ..|X.   |     |     |
+XXXXX|.  .X|.  ..|X.   |     |     |
+
+Vertical line #11
+.    | .X.X|.   X|XXXXX|X    |     |
+.  X | .X.X|.   X|XXXXX|X    |     |
+
+Vertical line #12
+.    |  X.X|    X|XX X |     |     |
+.   X|  X.X|    X|XX X |     |     |
+
+Vertical line #19
+... .|XX.  |    X|X    |     |     |
+.....|XX.  |    X|X    |     |     |
+
+Vertical line #27
+XXXXX|.XXXX|XXXX.| XXX.|     |     |
+XXXXX|.XXXX|XXXX.|XXXX.|     |     |
+
+Horizontal line #2
+.   X|XXX  |     |.....|...XX|XXXXX|
+.   X|XXXX |  ...|.....|...XX|XXXXX|
+
+Horizontal line #3
+.   X|XXXXX|     |  ...|.XXXX|XXXXX|
+.   X|XXXXX|X   .|.....|.XXXX|XXXXX|
+
+Horizontal line #16
+X. XX|XXXXX|XX   |   XX|XXXXX|XX...|
+X. XX|XXXXX|XX   |  .XX|XXXXX|XX...|
+
+Horizontal line #17
+X X  |...XX|XX.  |    .|X.XXX|XXXXX|
+XXX..|...XX|XX.  |    .|X.XXX|XXXXX|
+
+Horizontal line #18
+X    |   XX|X    |     |  .XX|XXXXX|
+XX...|.  XX|X    |     |  .XX|XXXXX|
+
+Horizontal line #19
+X    |   XX|XXX  |     |   ..|XXXXX|
+XX.  |   XX|XXX  |     |   ..|XXXXX|
+
+Vertical line #3
+.    |     |     | X.. |     |     |
+.    |     |    .|XX.. |    X|     |
+
+Vertical line #15
+...  |    X|     |     |     |     |
+...  |   .X|     |     |     |     |
+
+Vertical line #17
+...  | X   |     |     |     |     |
+.... | X   |     |     |     |     |
+
+Horizontal line #9
+     |..XX |... .|    .|XXXXX|XXXXX|
+     |..XX |.....|    .|XXXXX|XXXXX|
+
+Horizontal line #16
+X.XXX|XXXXX|XX   |  .XX|XXXXX|XX...|
+X.XXX|XXXXX|XX.  |  .XX|XXXXX|XX...|
+
+Horizontal line #25
+  X  |    X|     |     |     |     |
+ .X. |    X|     |     |     |     |
+
+Vertical line #2
+.    |     |     |.XXX |    .|     |
+.    |XX   |     |.XXXX|XXX..|.....|
+
+Horizontal line #6
+ X  .|..X  |     |  .XX|XXXXX|.....|
+ XX .|..X. |     |  .XX|XXXXX|.....|
+
+Horizontal line #20
+ X   |   XX|X    |     |     |.....|
+.X.. |   XX|X    |     |     |.....|
+
+Horizontal line #21
+ X   |   XX|X    |     |     |     |
+ X ..|.. XX|X    |     |     |     |
+
+Horizontal line #22
+ X   |    X|     |     |     |     |
+ XXXX|XXXXX|     |     |     |     |
+
+Horizontal line #26
+ .   |    X|     |     |     |     |
+..   |    X|     |     |     |     |
+
+Horizontal line #27
+ .   |    X|     |     |     |     |
+..   |    X|     |     |     |     |
+
+Horizontal line #28
+ .   |    .|     |     |     |     |
+..   |    .|     |     |     |     |
+
+Horizontal line #29
+ .   |     |     |     |     |     |
+..   |     |     |     |     |     |
+
+Horizontal line #30
+ .   |     |     |     |     |     |
+..   |     |     |     |     |     |
+
+Vertical line #1
+.... |     |     |XXXX.|     |.....|
+....X|XXXXX|XXXXX|XXXX.|.....|.....|
+
+Vertical line #3
+.    |X    |    .|XX...| X  X|     |
+.    |X    |    .|XX...| X  X|X    |
+
+Vertical line #5
+XXXXX|.    |     |X..  |.X   |     |
+XXXXX|.    |    .|X..  |.X   |     |
+
+Vertical line #6
+XXXXX|.  .X|.   .|X..  |.X   |     |
+XXXXX|.  .X|.   .|X..  |.X.  |     |
+
+Vertical line #8
+XXXXX|XXXXX|XXXXX|X.   | X   |     |
+XXXXX|XXXXX|XXXXX|X.   |.X.  |     |
+
+Horizontal line #5
+X   X|XXX  | X   |   .X|XXXXX|XXX..|
+XXXXX|XXX..| X ..|....X|XXXXX|XXX..|
+
+Horizontal line #6
+XXX .|..X. |     |  .XX|XXXXX|.....|
+XXX..|..X. |     |  .XX|XXXXX|.....|
+
+Horizontal line #7
+XX   |  X .|.    |.XXXX|XXXX.|.XXXX|
+XX.  |  X .|.    |.XXXX|XXXX.|.XXXX|
+
+Horizontal line #8
+X    |  XXX|XXX  |  ..X|XXXXX|XXXXX|
+XX.  |  XXX|XXX  |  ..X|XXXXX|XXXXX|
+
+Horizontal line #9
+X    |..XX |.....|    .|XXXXX|XXXXX|
+X.   |..XX |.....|    .|XXXXX|XXXXX|
+
+Horizontal line #10
+X    |XXXXX|XXXXX|     |.XXXX|XXXXX|
+X.   |XXXXX|XXXXX|     |.XXXX|XXXXX|
+
+Horizontal line #11
+X    |..XXX|.    |     | .XXX|XXXXX|
+XXX..|..XXX|.    |     | .XXX|XXXXX|
+
+Horizontal line #12
+X    |  XX |     |     | .XXX|XXXXX|
+XX.  |  XX |     |     | .XXX|XXXXX|
+
+Horizontal line #13
+X    |  XX |     |     | .XXX|XXXXX|
+XX...|  XX |     |     | .XXX|XXXXX|
+
+Horizontal line #14
+X    | .XX.|     |    .|XXXX.|.XXXX|
+X....|..XX.|     |    .|XXXX.|.XXXX|
+
+Horizontal line #15
+X . .|..XXX|XX.  |  .XX|XXXXX|...XX|
+X....|..XXX|XX.  |  .XX|XXXXX|...XX|
+
+Horizontal line #21
+.X ..|...XX|X    |     |     |     |
+.XX..|...XX|XX.  |     |     |     |
+
+Horizontal line #22
+.XXXX|XXXXX|     |     |     |     |
+.XXXX|XXXXX|X.   |     |     |     |
+
+Horizontal line #23
+.X   |. . X|     |     |     |     |
+.XX..|... X|     |     |     |     |
+
+Horizontal line #25
+..X. |    X|     |     |     |     |
+..X. |   .X|.    |     |     |     |
+
+Horizontal line #26
+..X  |    X|     |     |     |     |
+..XX.|    X|     |     |     |     |
+
+Vertical line #2
+.   X|XXX..|XXX..|.XXXX|XXX..|.....|
+..XXX|XXX..|XXX..|.XXXX|XXX..|.....|
+
+Vertical line #3
+.   X|X..  |X....|XX...|XXX X|X    |
+.XXXX|X...X|X....|XX...|XXXXX|X....|
+
+Vertical line #4
+    X|.    |. ...|X.. .|.X. .|X    |
+.XXXX|.    |. ...|X.. .|.X. .|X X  |
+
+Vertical line #5
+XXXXX|.    |. ...|X..  |.X.  |.    |
+XXXXX|.    |. ...|X..  |.X.  |. XX |
+
+Vertical line #9
+ XXX.|. XXX|XXXXX|XXXXX|XX  .|     |
+XXXX.|. XXX|XXXXX|XXXXX|XX  .|     |
+
+Vertical line #11
+. XX | .X.X|.   X|XXXXX|XX  .|     |
+. XX | .X.X|.   X|XXXXX|XX  .|XXX.X|
+
+Vertical line #12
+.   X|  X.X|    X|XX X |X.   |     |
+.   X|  X.X|   XX|XX XX|X.   |     |
+
+Vertical line #16
+... .| .   |     |     |     |     |
+.....|..   |     |     |     |     |
+
+Vertical line #17
+.....| X   |     |     |     |     |
+.....| XX  |     |     |     |     |
+
+Horizontal line #2
+..XXX|XXXX |  ...|.....|...XX|XXXXX|
+..XXX|XXXXX|.....|.....|...XX|XXXXX|
+
+Horizontal line #3
+.XXXX|XXXXX|X   .|.....|.XXXX|XXXXX|
+.XXXX|XXXXX|X....|.....|.XXXX|XXXXX|
+
+Horizontal line #4
+.XXXX|XXXX |X    |.. ..|XXXXX|XXXXX|
+.XXXX|XXXX.|X....|.....|XXXXX|XXXXX|
+
+Horizontal line #8
+XX.  |  XXX|XXX  | X..X|XXXXX|XXXXX|
+XX...|..XXX|XXXXX|XX..X|XXXXX|XXXXX|
+
+Horizontal line #10
+X.X  |XXXXX|XXXXX|     |.XXXX|XXXXX|
+X.XXX|XXXXX|XXXXX|.    |.XXXX|XXXXX|
+
+Horizontal line #14
+X....|..XX.| X   |    .|XXXX.|.XXXX|
+X....|..XX.|.X.  |    .|XXXX.|.XXXX|
+
+Horizontal line #20
+.X.. |   XX|XX   |     |     |.....|
+.X...|   XX|XX   |     |     |.....|
+
+Horizontal line #24
+..X  |    X|     |     |     |     |
+..X. |    X|     |     |     |     |
+
+Horizontal line #26
+..XX.|    X|X    |     |     |     |
+..XX.|....X|X.   |     |     |     |
+
+Horizontal line #28
+...XX|    .|X    |     |     |     |
+...XX|.   .|X  . |     |     |     |
+
+Horizontal line #29
+... X|     |.    |     |     |     |
+... X|X    |.    |     |     |     |
+
+Horizontal line #30
+...  |     |X    |     |     |     |
+.....|     |X    | ....|.....|.....|
+
+Vertical line #4
+.XXXX|. . X|. ...|X.. .|.X...|X X .|
+.XXXX|....X|.....|X....|.X...|XXX..|
+
+Vertical line #5
+XXXXX|. . X|. ...|X.. .|.X.  |. XX.|
+XXXXX|....X|.....|X....|.X...|.XXX.|
+
+Vertical line #6
+XXXXX|. ..X|.  ..|X..  |.X.  |. .X |
+XXXXX|. ..X|.  ..|X..  |.X.  |. .X.|
+
+Vertical line #11
+..XX | .X.X|.  .X|XXXXX|XX  .|XXX.X|
+..XXX|..X.X|.  .X|XXXXX|XXXX.|XXX.X|
+
+Vertical line #12
+....X|  X.X|   XX|XX XX|X.   |.    |
+....X|XXX.X|...XX|XXXXX|X.   |.    |
+
+Vertical line #13
+.... |  X.X|   ..|.. X |.    |     |
+.... |  X.X|.  ..|.. X |.    |     |
+
+Vertical line #14
+.....|  X.X|     |     |     |  .  |
+.....|..X.X|X.   |   XX|XXX  |  ...|
+
+Vertical line #15
+.....|  X.X|     |     |     |     |
+.....| .X.X|.    |     |     |     |
+
+Vertical line #16
+.....|..X .|     |     |     |     |
+.....|..XX.|     |     |     |     |
+
+Vertical line #26
+XXXXX|..XXX|XXX..|XXXX.|     |    .|
+XXXXX|..XXX|XXX..|XXXX.|     |X   .|
+
+Horizontal line #5
+XXXXX|XXX..|XX ..|....X|XXXXX|XXX..|
+XXXXX|XXX..|XX...|....X|XXXXX|XXX..|
+
+Horizontal line #6
+XXX..|..X. |.X . |. .XX|XXXXX|.....|
+XXX..|..X..|.X...|...XX|XXXXX|.....|
+
+Horizontal line #7
+XX...|  X .|.X ..|.XXXX|XXXX.|.XXXX|
+XX...|. X .|.XX..|.XXXX|XXXX.|.XXXX|
+
+Horizontal line #9
+X....|..XX |.....|X   .|XXXXX|XXXXX|
+X....|..XX.|.....|XXX..|XXXXX|XXXXX|
+
+Horizontal line #12
+XX...|  XX | . . |     | .XXX|XXXXX|
+XX...|. XX |....X|XXX.X|X.XXX|XXXXX|
+
+Horizontal line #18
+XX...|.  XX|XX   |     |  .XX|XXXXX|
+XX...|.. XX|XX   |     |  .XX|XXXXX|
+
+Horizontal line #19
+XX...|   XX|XXXX |     |   ..|XXXXX|
+XX...|   XX|XXXXX|     |   ..|XXXXX|
+
+Horizontal line #21
+.XX..|...XX|XX.X |     |     |     |
+.XX..|...XX|XX.X.|     |     |     |
+
+Horizontal line #22
+.XXXX|XXXXX|X. X |     |     |     |
+.XXXX|XXXXX|X..X.|     |     |     |
+
+Horizontal line #23
+.XX..|... X|X  X |     |     |     |
+.XX..|....X|X..X.|     |     |     |
+
+Horizontal line #24
+..X..|    X|X    |     |     |     |
+..X..|....X|X.   |     |     |     |
+
+Horizontal line #27
+...XX|    X|X    |     |     |     |
+...XX|XXXXX|X.   |     |     |     |
+
+Horizontal line #29
+....X|X    |.  . |     |     |     |
+....X|XX.  |.  . |     |     |     |
+
+Horizontal line #30
+.....|.    |X  . | ....|.....|.....|
+.....|. XXX|XX ..|.....|.....|.....|
+
+Vertical line #6
+XXXXX|....X|.. ..|X..  |.X.. |.X.X.|
+XXXXX|....X|.....|X....|.X...|.X.X.|
+
+Vertical line #7
+XXXXX|. ..X|.  ..|X..  |.X.. |.X X |
+XXXXX|....X|.....|X....|.X...|.X.XX|
+
+Vertical line #8
+XXXXX|XXXXX|XXXXX|X.   |.X.. |.X .X|
+XXXXX|XXXXX|XXXXX|X....|.X...|.X..X|
+
+Vertical line #9
+XXXX.|. XXX|XXXXX|XXXXX|XX...|.X  X|
+XXXX.|.XXXX|XXXXX|XXXXX|XX...|.X..X|
+
+Vertical line #10
+.XX..|..X.X|X  .X|XXXXX|XXXXX|XX. X|
+.XX..|..X.X|XXX.X|XXXXX|XXXXX|XX..X|
+
+Vertical line #11
+..XXX|..X.X|.. .X|XXXXX|XXXX.|XXX.X|
+..XXX|..X.X|..X.X|XXXXX|XXXX.|XXX.X|
+
+Vertical line #12
+....X|XXX.X|...XX|XXXXX|X... |..  X|
+....X|XXX.X|...XX|XXXXX|X....|..XXX|
+
+Vertical line #15
+.....|..X.X|.X   |   X |...  |    .|
+.....|..X.X|.X.  |   X |...  |    .|
+
+Vertical line #16
+.....|..XX.| X   |     |     |    .|
+.....|..XX.|.X.  |     |     |    .|
+
+Vertical line #17
+.....|.XXX | X   |     |     |    .|
+.....|.XXX.| X   |     |     |    .|
+
+Vertical line #18
+.....|.X.X | X  .|.    |     |    .|
+.....|.X.X.| XX .|.    |     |    .|
+
+Vertical line #19
+.....|XX.. | .  X|X    |     |    .|
+.....|XX.. | .  X|XX   |     |    .|
+
+Vertical line #20
+....X|XXX. | X .X|X.   |     |    .|
+....X|XXX..| X .X|X.   |     |    .|
+
+Vertical line #21
+...XX|XXXX.| X XX|XX   |     |    .|
+...XX|XXXX.| XXXX|XX   |     |    .|
+
+Horizontal line #10
+X.XXX|XXXXX|XXXXX|... .|.XXXX|XXXXX|
+X.XXX|XXXXX|XXXXX|...X.|.XXXX|XXXXX|
+
+Horizontal line #11
+XXX..|..XXX|...X.|.    | .XXX|XXXXX|
+XXX..|..XXX|...X.|. X  | .XXX|XXXXX|
+
+Horizontal line #13
+XX...|..XXX|X.  .|. X  |X.XXX|XXXXX|
+XX...|..XXX|X.XX.|. X .|X.XXX|XXXXX|
+
+Horizontal line #17
+XXX..|...XX|XX.  |   X.|X.XXX|XXXXX|
+XXX..|...XX|XX...|.XXX.|X.XXX|XXXXX|
+
+Horizontal line #18
+XX...|...XX|XX   |     |  .XX|XXXXX|
+XX...|...XX|XXX. | X   |  .XX|XXXXX|
+
+Horizontal line #19
+XX...|...XX|XXXXX|     |   ..|XXXXX|
+XX...|...XX|XXXXX|XXX. |   ..|XXXXX|
+
+Horizontal line #20
+.X...|...XX|XX X |     |     |.....|
+.X...|...XX|XXXXX|.    |     |.....|
+
+Horizontal line #28
+...XX|.....|XX . |     |     |     |
+...XX|.....|XXX. |     |     |     |
+
+Horizontal line #29
+....X|XX...|.X . |     |     |     |
+....X|XX...|.XX. |     |     |     |
+
+Horizontal line #30
+.....|.XXXX|XX ..|.....|.....|.....|
+.....|.XXXX|XX...|.....|.....|.....|
+
+Vertical line #13
+.....|.XX.X|..X..|..XXX|...  |  XX.|
+.....|.XX.X|..X..|..XXX|.....|.XXX.|
+
+Vertical line #14
+.....|..X.X|X.X  | ..XX|XXX  |  ...|
+.....|..X.X|X.X..|...XX|XXXXX|XX...|
+
+Vertical line #15
+.....|..X.X|.X.  | . XX|...  |    .|
+.....|..X.X|.X.  | ..XX|...  |    .|
+
+Vertical line #17
+.....|.XXX.| X   | XXX |     |    .|
+.....|.XXX.| X ..| XXX |.....|.....|
+
+Vertical line #18
+.....|.X.X.|XXX .|.X X |     |    .|
+.....|.X.X.|XXX..|.XXXX|X....|.....|
+
+Vertical line #19
+.....|XX..X| .  X|XX . |     |    .|
+.....|XX..X|.. XX|XX . |     |    .|
+
+Vertical line #20
+....X|XXX..| X..X|X.   |     |    .|
+....X|XXX..|XX..X|X.   |     |    .|
+
+Horizontal line #11
+XXX..|..XXX|...X.|. X.X| .XXX|XXXXX|
+XXX..|..XXX|...X.|.XX.X|..XXX|XXXXX|
+
+Horizontal line #16
+X.XXX|XXXXX|XX.. |  .XX|XXXXX|XX...|
+X.XXX|XXXXX|XX..X|.X.XX|XXXXX|XX...|
+
+Horizontal line #18
+XX...|...XX|XXX..| XX  |  .XX|XXXXX|
+XX...|...XX|XXX..| XX  |X .XX|XXXXX|
+
+Horizontal line #20
+.X...|...XX|XXXXX|. X  |     |.....|
+.X...|...XX|XXXXX|..X. |     |.....|
+
+Horizontal line #21
+.XX..|...XX|XX.X.| .X  |     |     |
+.XX..|...XX|XX.X.|..XX.|     |     |
+
+Horizontal line #24
+..X..|....X|X..X | ..  |     |     |
+..X..|....X|X..X.|...  |     |     |
+
+Horizontal line #25
+..X..|....X|...X | ..  |     |     |
+..X..|....X|...X.| ..  |     |     |
+
+Horizontal line #26
+..XX.|....X|X..X | ..  |     |X    |
+..XX.|....X|X..X.| ..  |     |X    |
+
+Horizontal line #27
+...XX|XXXXX|X.XX | ..  |     |     |
+...XX|XXXXX|X.XX.|...  |     |     |
+
+Vertical line #15
+.....|..X.X|.X.  |X..XX|.....|..  .|
+.....|..X.X|.X..X|X..XX|.....|.....|
+
+Vertical line #17
+.....|.XXX.|XX ..|XXXX.|.....|.....|
+.....|.XXX.|XX...|XXXX.|.....|.....|
+
+Vertical line #19
+.....|XX..X|.. XX|XX ..|X    |    .|
+.....|XX..X|.. XX|XX ..|XXXX.|.....|
+
+Vertical line #20
+....X|XXX..|XX..X|X.   |.    |    .|
+....X|XXX..|XX..X|X....|.    |    .|
+
+Vertical line #21
+...XX|XXXX.|.XXXX|XXX  |     |    .|
+...XX|XXXX.|.XXXX|XXX. |     |    .|
+
+Horizontal line #13
+XX...|..XXX|X.XX.|..X .|X.XXX|XXXXX|
+XX...|..XXX|X.XX.|..XX.|X.XXX|XXXXX|
+
+Horizontal line #14
+X....|..XX.|.X...| ..X.|XXXX.|.XXXX|
+X....|..XX.|.X...|X..X.|XXXX.|.XXXX|
+
+Horizontal line #15
+X....|..XXX|XX..X| ..XX|XXXXX|...XX|
+X....|..XXX|XX..X|...XX|XXXXX|...XX|
+
+Horizontal line #18
+XX...|...XX|XXX..| XX .|X .XX|XXXXX|
+XX...|...XX|XXX..| XX .|XX.XX|XXXXX|
+
+Horizontal line #19
+XX...|...XX|XXXXX|XXX..|.  ..|XXXXX|
+XX...|...XX|XXXXX|XXX..|.XX..|XXXXX|
+
+Horizontal line #20
+.X...|...XX|XXXXX|..X..|     |.....|
+.X...|...XX|XXXXX|..X..|  X  |.....|
+
+Horizontal line #24
+..X..|....X|X..X.|...X |     |     |
+..X..|....X|X..X.|...XX|.    |     |
+
+Vertical line #16
+.....|..XX.|.X.X.|.. X.|.  . | .  .|
+.....|..XX.|.X.X.|..XX.|.....|.....|
+
+Vertical line #19
+.....|XX..X|..XXX|XX ..|XXXX.|.....|
+.....|XX..X|..XXX|XX...|XXXX.|.....|
+
+Vertical line #20
+....X|XXX..|XX..X|X....|.  X |    .|
+....X|XXX..|XX..X|X....|.  XX|  ...|
+
+Vertical line #22
+..XXX|XXXXX|...XX|X.XX |     |    .|
+..XXX|XXXXX|...XX|X.XX.|.....|.....|
+
+Vertical line #23
+..XXX|XXXXX|XXXXX|XX.XX|     |    .|
+..XXX|XXXXX|XXXXX|XX.XX|.....|.....|
+
+Horizontal line #20
+.X...|...XX|XXXXX|..X..| .X  |.....|
+.X...|...XX|XXXXX|..X..|..XXX|.....|
+
+Horizontal line #21
+.XX..|...XX|XX.X.|..XX.| ..  |     |
+.XX..|...XX|XX.X.|..XX.|... X|  XX |
+
+Horizontal line #22
+.XXXX|XXXXX|X..X.|...X | ..  |     |
+.XXXX|XXXXX|X..X.|...X.|...  | X   |
+
+Horizontal line #23
+.XX..|....X|X..X.|...X | ..  |     |
+.XX..|....X|X..X.|...X.|...  | X   |
+
+Horizontal line #24
+..X..|....X|X..X.|...XX|...  |     |
+..X..|....X|X..X.|...XX|...  | X   |
+
+Horizontal line #25
+..X..|....X|...X.|....X| ..  |     |
+..X..|....X|...X.|....X|...  |     |
+
+Vertical line #20
+....X|XXX..|XX..X|X....|...XX|  ...|
+....X|XXX..|XX..X|X....|...XX|XX...|
+
+Vertical line #21
+...XX|XXXX.|.XXXX|XXX..|.....|    .|
+...XX|XXXX.|.XXXX|XXX..|.....| XX .|
+
+Vertical line #24
+.XXXX|XXXXX|XXXXX|XXX.X|     |    .|
+.XXXX|XXXXX|XXXXX|XXX.X|.....|.....|
+
+Vertical line #25
+.XXXX|X.XXX|XXX.X|XXX.X|X    |    .|
+.XXXX|X.XXX|XXX.X|XXX.X|X.   |    .|
+
+Vertical line #27
+XXXXX|.XXXX|XXXX.|XXXX.| XXX |    .|
+XXXXX|.XXXX|XXXX.|XXXX.| XXX |.....|
+
+Vertical line #28
+XXXXX|.XXXX|XXXX.|.XXX.|X    |    .|
+XXXXX|.XXXX|XXXX.|.XXX.|XXXX.|.....|
+
+Vertical line #29
+XXXX.|.XXXX|XXXXX|.XXX.|X    |    .|
+XXXX.|.XXXX|XXXXX|.XXX.|XXX..|.....|
+
+Horizontal line #21
+.XX..|...XX|XX.X.|..XX.|....X|  XX |
+.XX..|...XX|XX.X.|..XX.|....X|X.XXX|
+
+Horizontal line #23
+.XX..|....X|X..X.|...X.|.... | XXX |
+.XX..|....X|X..X.|...X.|.....| XXX |
+
+Horizontal line #24
+..X..|....X|X..X.|...XX|.... | XX. |
+..X..|....X|X..X.|...XX|....X|XXX..|
+
+Horizontal line #25
+..X..|....X|...X.|....X|.... |  .. |
+..X..|....X|...X.|....X|....X|XX...|
+
+Horizontal line #26
+..XX.|....X|X..X.|....X| ... |X... |
+..XX.|....X|X..X.|....X|....X|X....|
+
+Horizontal line #27
+...XX|XXXXX|X.XX.|....X|X... | ... |
+...XX|XXXXX|X.XX.|....X|X....|.....|
+
+Horizontal line #28
+...XX|.....|XXX..|.....|X... | ... |
+...XX|.....|XXX..|.....|X....|.....|
+
+Vertical line #21
+...XX|XXXX.|.XXXX|XXX..|.....|.XX .|
+...XX|XXXX.|.XXXX|XXX..|.....|.XXX.|
+
+Vertical line #25
+.XXXX|X.XXX|XXX.X|XXX.X|X..XX|X.. .|
+.XXXX|X.XXX|XXX.X|XXX.X|X..XX|X....|
+
+Vertical line #26
+XXXXX|..XXX|XXX..|XXXX.|X  XX|X.. .|
+XXXXX|..XXX|XXX..|XXXX.|X.XXX|X....|
+
+Vertical line #30
+XXXX.|.XXXX|XXXXX|.XXX.|X  ..|... .|
+XXXX.|.XXXX|XXXXX|.XXX.|XX...|.....|
+
+Final result
+....XXXXXXXXXXXXXXX...........
+..XXXXXX..XXX...XXXXXXX.......
+.XXXXX...XX....XX...XXXXXX....
+.XXXX....X.....X.....X...XXX..
+XXXXX....X.....X.....X....XXX.
+XXXXX....X.....X.....X....X.X.
+XXXXX....X.....X.....X....X.XX
+XXXXXXXXXXXXXXXX.....X....X..X
+XXXX..XXXXXXXXXXXXXXXX....X..X
+.XX....X.XXXX.XXXXXXXXXXXXX..X
+..XXX..X.X..X.XXXXXXXXXX.XXX.X
+....XXXX.X...XXXXXXXX......XXX
+......XX.X..X....XXX......XXX.
+.......X.XX.X.....XXXXXXXXX...
+.......X.X.X..XX..XX..........
+.......XX..X.X...XX...........
+......XXX.XX...XXXX...........
+......X.X.XXX...XXXXX.........
+.....XX..X..XXXXX...XXXX......
+....XXXX..XX..XX.......XXXX...
+...XXXXXX..XXXXXXX........XXX.
+..XXXXXXXX...XXX.XX...........
+..XXXXXXXXXXXXXXX.XX..........
+.XXXXXXXXXXXXXXXXX.X..........
+.XXXXX.XXXXXX.XXXX.XX..XXX....
+XXXXX..XXXXXX..XXXX.X.XXXX....
+XXXXX.XXXXXXXX.XXXX..XXXX.....
+XXXXX.XXXXXXXX..XXX.XXXX......
+XXXX..XXXXXXXXX.XXX.XXX.......
+XXXX..XXXXXXXXX.XXX.XX........

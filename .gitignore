@@ -2,8 +2,8 @@
 /a
 /b
 /b.text
-/in
-/out
+/in*
+/out*
 /mout
 /Main.java
 input/*

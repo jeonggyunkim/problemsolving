@@ -15,7 +15,7 @@ if '.' in name:
 	ind = name.rfind('.')
 	name = name[ind - 12:ind]
 
-for num in range(1000, 100000):
+for num in range(100000):
 	m = hashlib.sha256()
 	m.update((key + str(num)).encode())
 	encrypt = m.hexdigest()[:12]
@@ -24,13 +24,3 @@ for num in range(1000, 100000):
 		sys.exit(0)
 
 print('Not a number')
-
-prefix = ['M', 'MH', 'H', 'VH']
-for p in prefix:
-	for num in range(1000, 100000):
-		m = hashlib.sha256()
-		m.update((key + p + str(num)).encode())
-		encrypt = m.hexdigest()[:12]
-		if encrypt == name:
-			print(num)
-			sys.exit(0)

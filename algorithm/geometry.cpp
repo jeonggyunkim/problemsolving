@@ -60,6 +60,5 @@ while (next < n) {
 			break;
 		}
 	}
+	s.push(next++);
 }
-
-s.push(next++);
