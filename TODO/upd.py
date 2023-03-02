@@ -38,9 +38,10 @@ for i in boj_list:
             print("Duplicated file:", name)
     boj.add(name)
 
-r = requests.get('https://www.acmicpc.net/user/sslktong')
+headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'}
+r = requests.get('https://www.acmicpc.net/user/sslktong', headers = headers)
 soup = bs(r.text, features="html.parser")
-for rep in [0, 2]:
+for rep in [0, 3]:
     div = soup.findAll('div', attrs={'class':'problem-list'})[rep]
     span = div.findAll('a')
     for i in range(len(span)):

@@ -3,7 +3,7 @@
     {
       "type": "shell",
       "label": "g++ build active file",
-      "command": "g++"
+      "command": "g++",
       "args": [
         "-g",
         "${file}",

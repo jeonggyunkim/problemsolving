@@ -17,6 +17,7 @@
         "vector": "cpp",
         "string": "cpp",
         "cstring": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "algorithm": "cpp"
     }
 }

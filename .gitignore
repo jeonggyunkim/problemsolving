@@ -10,6 +10,7 @@ input/*
 output/*
 
 key.txt
+a.txt
 /*.cpp
 *.exe
 *.class

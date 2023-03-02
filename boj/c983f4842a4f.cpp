@@ -5,10 +5,12 @@ int main() {
 	ios::sync_with_stdio(0);
 	cin.tie(0);
 
-	string s;
-	int cnt = 0;
-	while (cin >> s) {
-		cnt++;
+	int tc;
+	cin >> tc;
+
+	while (tc--) {
+		int n;
+		cin >> n;
+		cout << 23 * n << '\n';
 	}
-	cout << cnt;
 }
